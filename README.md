@@ -1,7 +1,9 @@
-# FBI-gun-census
+# US Census Data on Guns
 
 ## Introduction
-Investigate and analyze a dataset and communicate the findings.
+This data comes from the FBI's National Instant Criminal Background Check System (NICS). The NICS is used to determine whether a prospective buyer is eligible to buy firearms or explosives. Gun shops call into this system to ensure that each customer does not have a criminal record or isn’t otherwise ineligible to make a purchase. The data has been supplemented with state level data from census.gov.
+
+We will conduct an analysis of US census data in relation to the FBI's NICS gun data by taking a micro approach and focusing on the state of Maryland.
 
 ## Libraries
 * pandas
